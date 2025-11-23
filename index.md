@@ -5,9 +5,9 @@ layout: default
 <header>
   <div class="language-switch">
     🌍 Languages:
-    <a href="/en/">English</a> |
-    <a href="/ru/index.md">Русский</a> |
-    <a href="/pl/">Polski</a>
+    <a href="/en/index.html">English</a> |
+    <a href="/ru/index.html">Русский</a> |
+    <a href="/pl/index.html">Polski</a>
   </div>
 </header>
 
